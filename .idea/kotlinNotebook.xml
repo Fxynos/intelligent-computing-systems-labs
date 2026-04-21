@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="KotlinNotebookOptionsProvider">
-    <option name="heapMaxLimitInMib" value="32000" />
+    <option name="heapMaxLimitInMib" value="48000" />
   </component>
 </project>

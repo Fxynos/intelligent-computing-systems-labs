@@ -1,0 +1,14 @@
+term,function type,from x,to x
+daily_active_minutes_instagram/немного,TRIANGULAR,0.0,40.0
+daily_active_minutes_instagram/много,TRIANGULAR,0.0,20.0
+daily_active_minutes_instagram/очень много,TRIANGULAR,0.0,40.0
+daily_active_minutes_instagram/вообще не расстаётся с телефоном,TRIANGULAR,0.0,342.6666666666667
+likes_given_per_day/немного,TRIANGULAR,0.0,40.0
+likes_given_per_day/много,TRIANGULAR,0.0,20.0
+likes_given_per_day/очень много,TRIANGULAR,0.0,40.0
+stories_viewed_per_day/немного,TRIANGULAR,0.0,40.0
+stories_viewed_per_day/много,TRIANGULAR,0.0,20.0
+stories_viewed_per_day/очень много,TRIANGULAR,0.0,40.0
+perceived_stress_score/низкий стресс,TRIANGULAR,0.0,40.0
+perceived_stress_score/умеренный стресс,TRIANGULAR,0.0,20.0
+perceived_stress_score/высокий стресс,TRIANGULAR,0.0,40.0

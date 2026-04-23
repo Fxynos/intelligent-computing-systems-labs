@@ -1,0 +1,14 @@
+term,function type,from x,to x
+daily_active_minutes_instagram/a little,TRIANGULAR,-14.65580577365397,14.730174046367207
+daily_active_minutes_instagram/a lot,TRIANGULAR,-13.994948802263686,24.974787994566206
+daily_active_minutes_instagram/very much,TRIANGULAR,13.765354010045556,13.765354010045556
+daily_active_minutes_instagram/too much,TRIANGULAR,7.268015086336479,47.198254300028395
+likes_given_per_day/a little,TRIANGULAR,-14.65580577365397,14.730174046367207
+likes_given_per_day/a lot,TRIANGULAR,-13.994948802263686,24.974787994566206
+likes_given_per_day/too much,TRIANGULAR,13.765354010045556,13.765354010045556
+stories_viewed_per_day/a little,TRIANGULAR,-14.65580577365397,14.730174046367207
+stories_viewed_per_day/a lot,TRIANGULAR,-13.994948802263686,24.974787994566206
+stories_viewed_per_day/too much,TRIANGULAR,13.765354010045556,13.765354010045556
+perceived_stress_score/low stress,TRIANGULAR,-14.65580577365397,14.730174046367207
+perceived_stress_score/moderate stress,TRIANGULAR,-13.994948802263686,24.974787994566206
+perceived_stress_score/high stress,TRIANGULAR,13.765354010045556,13.765354010045556
